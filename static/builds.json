@@ -1,0 +1,50 @@
+[
+  {
+    "value": "1",
+    "text": "1-комнатная",
+    "values": {
+      "rooms": 2,
+      "roomsText": "1-комнатная",
+      "buildName": "Sezim Qala 6-2",
+      "cost": "10 308 425 ₸",
+      "payment": "68 550 ₸",
+      "area": "32,08 м2",
+      "anInitialFee": "3 711 033 ₸",
+      "loanTerm": "12 лет",
+      "rate": "7%",
+      "scheme": "/scheme/11.png"
+    }
+  },
+  {
+    "value": "2",
+    "text": "2-комнатная",
+    "values": {
+      "rooms": 2,
+      "roomsText": "2-комнатная",
+      "buildName": "Nova City на Туране 2",
+      "cost": "13 579 355 ₸",
+      "payment": "90 300 ₸",
+      "area": "44,54 м2",
+      "anInitialFee": "4 888 568 ₸",
+      "loanTerm": "12 лет",
+      "rate": "5%",
+      "scheme": "/scheme/95a08623-6af9-11e9-a82f-00155d101f3a_403.png"
+    }
+  },
+  {
+    "value": "3",
+    "text": "3-комнатная",
+    "values": {
+      "rooms": 3,
+      "roomsText": "3-комнатная",
+      "buildName": "Sezim Qala 7",
+      "cost": "24 787 506 ₸",
+      "payment": "164 836 ₸",
+      "area": "81,3 м2",
+      "anInitialFee": "8 923 502 ₸",
+      "loanTerm": "12 лет",
+      "rate": "7%",
+      "scheme": "/scheme/974488b8-aaa1-11e8-80d7-00155da7893d_200.png"
+    }
+  }
+]
