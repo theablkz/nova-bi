@@ -51,7 +51,7 @@ export default {
    ** Nuxt.js dev-modules
    */
   buildModules: [
-    ['@nuxtjs/google-tag-manager', { id: 'GTM-WWR5X37' }]
+    
   ],
   /*
    ** Nuxt.js modules
@@ -61,6 +61,7 @@ export default {
     '@nuxtjs/axios',
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
+    ['@nuxtjs/google-tag-manager', { id: 'GTM-WWR5X37' }]
   ],
   /*
    ** Axios module configuration
