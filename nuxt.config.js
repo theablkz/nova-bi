@@ -31,7 +31,7 @@ export default {
           'Совместная программа от АО «Жилстройсбербанк Казахстана» и компании BI Group призвана обеспечить более выгодные условия для всех, кто в текущий период заинтересован в приобретении жилья.',
       },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/s-logo.svg' }],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
   /*
    ** Global CSS
@@ -50,7 +50,9 @@ export default {
   /*
    ** Nuxt.js dev-modules
    */
-  buildModules: [],
+  buildModules: [
+    ['@nuxtjs/google-tag-manager', { id: 'GTM-P92F7D3' }]
+  ],
   /*
    ** Nuxt.js modules
    */
