@@ -6,11 +6,11 @@
     "city": "",
     "title": "Nova City на Рыскулбекова - 1-1 (Монолит)",
     "image": "/builds-image/image 46-2.png",
-    "address": "Нур-Султан, ул. 38 / ул. Е-660",
+    "address": "город Нур-Султан, район Алматы, ул.Рыскулбекова, уч.29",
     "area": "От 34,91 м2",
     "cost": "От 11 млн ₸",
     "loan": "От 73 тыс ₸ в мес",
-    "link": "/",
+    "link": "https://nova-city.kz/ru/project/naryskulbekova",
     "status": "inProgress"
   },
   {
@@ -18,11 +18,11 @@
     "city": "Нур-Султан",
     "title": "Sezim Qala - 6-1 (КПД)",
     "image": "/builds-image/image 46-1.png",
-    "address": "Нур-Султан, ул. 38 / ул. Е-660",
+    "address": "город Нур-Султан, район \"Есиль\", проспект Туран, участок 55, район пересечения улиц Е22 и Е51",
     "area": "От 32,49 м2",
     "cost": "От 10,5 млн ₸",
     "loan": "От 70 тыс ₸ в мес",
-    "link": "/",
+    "link": "https://nova-city.kz/ru/project/sezimqala",
     "status": "inProgress"
   },
   {
@@ -30,11 +30,11 @@
     "city": "Нур-Султан",
     "title": "Nova City на Туране - 2-1 (Монолит)",
     "image": "/builds-image/image 46-3.png",
-    "address": "Нур-Султан, просп. Туран / ул. №24",
+    "address": "город Нур-Султан, район \"Есиль\", район пересечения улиц с проектными наименованиями Е51, Е68",
     "area": "От 38,97 м2",
     "cost": "От 11,8 млн ₸",
     "loan": "От 78 тыс ₸ в мес",
-    "link": "/",
+    "link": "https://nova-city.kz/ru/project/naturane",
     "status": "inProgress"
   },
   {
@@ -42,11 +42,11 @@
     "city": "Нур-Султан",
     "title": "Nova City на Рыскулбекова - 1-2 (Монолит)",
     "image": "/builds-image/image 46-2.png",
-    "address": "Нур-Султан, ул. 306 / ул. ЕК-32",
+    "address": "город Нур-Султан, район Алматы, ул.Рыскулбекова, уч.29",
     "area": "От 36,18 м2",
     "cost": "От 11.4 млн ₸",
     "loan": "От 76 тыс ₸ в мес",
-    "link": "/",
+    "link": "https://nova-city.kz/ru/project/naryskulbekova",
     "status": "inProgress"
   },
   {
@@ -54,11 +54,11 @@
     "city": "Нур-Султан",
     "title": "Nova City на Туране - 2-2 (Монолит)",
     "image": "/builds-image/image 46-3.png",
-    "address": "Нур-Султан, просп. Туран / ул. №24",
+    "address": "город Нур-Султан, район \"Есиль\", район пересечения улиц с проектными наименованиями Е51, Е68",
     "area": "От 39,28 м2",
     "cost": "От 12.7 млн ₸",
     "loan": "От 78 тыс ₸ в мес",
-    "link": "/",
+    "link": "https://nova-city.kz/ru/project/naturane",
     "status": "inProgress"
   },
   {
@@ -66,11 +66,11 @@
     "city": "Нур-Султан",
     "title": "Sezim Qala - 7",
     "image": "/builds-image/image 46-1.png",
-    "address": "Нур-Султан, вдоль ул. Турар Рыскулова между пр. Кабанбай Батыра и Мәнгілік Ел",
+    "address": "город Нур-Султан, район \"Есиль\", проспект Туран, участок 55, район пересечения улиц Е22 и Е51",
     "area": "От 38,72 м2",
     "cost": "От 12.1 млн ₸",
     "loan": "От 80,6 тыс ₸ в мес",
-    "link": "/",
+    "link": "https://nova-city.kz/ru/project/sezimqala",
     "status": "inProgress"
   },
   {
@@ -78,11 +78,11 @@
     "city": "Нур-Султан",
     "title": "Sezim Qala - 6-2 (КПД)",
     "image": "/builds-image/image 46-1.png",
-    "address": "Нур-Султан, просп. Туран / ул. Е 10",
+    "address": "город Нур-Султан, район \"Есиль\", проспект Туран, участок 55, район пересечения улиц Е22 и Е51",
     "area": "От 32,49 м2",
     "cost": "От 10,3 млн ₸",
     "loan": "От 68,5 тыс ₸ в мес",
-    "link": "/",
+    "link": "https://nova-city.kz/ru/project/sezimqala",
     "status": "inProgress"
   },
 
@@ -94,11 +94,11 @@
     "city": "Алматы",
     "title": "Ару кала - 1-1 (Кирпич)",
     "image": "/builds-image/image 46-5.png",
-    "address": "Алматы, просп. Райымбека, 542",
+    "address": "город Нур-Султан, район Есиль, район пересечения улиц Кайым Мухамедханова и Е755",
     "area": "От 38,89 м2",
     "cost": "От 12.2 млн ₸",
     "loan": "От 81,7 тыс ₸ в мес",
-    "link": "/",
+    "link": "https://nova-city.kz/ru/project/aru-qala",
     "status": "perspective"
   },
   {
@@ -106,11 +106,11 @@
     "city": "Алматы",
     "title": "Ару кала - 1-2 (Кирпич)",
     "image": "/builds-image/image 46-5.png",
-    "address": "Алматы, просп. Райымбека, 542",
+    "address": "город Нур-Султан, район Есиль, район пересечения улиц Кайым Мухамедханова и Е755",
     "area": "От 36,75 м2",
     "cost": "От 11.9 млн ₸",
     "loan": "От 79 тыс ₸ в мес",
-    "link": "/",
+    "link": "https://nova-city.kz/ru/project/aru-qala",
     "status": "perspective"
   },
 
@@ -119,11 +119,11 @@
     "city": "Алматы",
     "title": "Sezim Qala - 8  (Монолит)",
     "image": "/builds-image/image 46-1.png",
-    "address": "Алматы, просп. Абая, уч. 165",
+    "address": "город Нур-Султан, район \"Есиль\", проспект Туран, участок 55, район пересечения улиц Е22 и Е51",
     "area": "От 37,6 м2",
     "cost": "От 10 млн ₸",
     "loan": "От 68,8 тыс ₸ в мес",
-    "link": "/",
+    "link": "https://nova-city.kz/ru/project/sezimqala",
     "status": "perspective"
   },
   {
@@ -131,8 +131,6 @@
     "city": "Алматы",
     "title": "Южный треугольник - 1 (Кирпич)",
     "image": "/builds-image/2 1.png",
-    "address": "Алматы, ул. Варламова, 27",
-    "link": "/",
     "status": "perspective"
   }
 ]

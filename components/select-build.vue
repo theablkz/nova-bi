@@ -43,7 +43,7 @@
               {{item.loan}}
             </p>
           </div>
-          <a :href="item.link" target="_blank" class="build-box__link"
+          <a v-if="item.link" :href="item.link" target="_blank" class="build-box__link"
           >Узнать подробнее
             <svg
               width="5"
@@ -94,7 +94,7 @@
               {{item.loan}}
             </p>
           </div>
-          <a :href="item.link" class="build-box__link"
+          <a v-if="item.link" :href="item.link" class="build-box__link"
           >Узнать подробнее
             <svg
               width="5"
