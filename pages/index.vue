@@ -20,7 +20,7 @@
             <a
               target="_blank"
               class="whatsapp_mobile"
-              href="https://wa.me/77783603366?text=Добрый день, Меня интересует Новая ипотека от АО “Жилстройсбербанк Казахстана” и Nova City"
+              href="https://wa.me/77750340340?text=Добрый день, Меня интересует Новая ипотека от АО “Жилстройсбербанк Казахстана” и Nova City"
             >
               <button class="banner-consulting__whatsapp">
                 <svg
@@ -45,7 +45,7 @@
             <a
               target="_blank"
               class="whatsapp_desktop"
-              href="https://web.whatsapp.com/send?phone=77783603366&text=Добрый день, Меня интересует Новая ипотека от АО “Жилстройсбербанк Казахстана” и Nova City&source=&data="
+              href="https://web.whatsapp.com/send?phone=77750340340&text=Добрый день, Меня интересует Новая ипотека от АО “Жилстройсбербанк Казахстана” и Nova City&source=&data="
             >
               <button class="banner-consulting__whatsapp">
                 <svg
@@ -86,7 +86,7 @@
             <a
               target="_blank"
               class="whatsapp_mobile"
-              href="https://wa.me/77783603366?text=Добрый день, Меня интересует Новая ипотека от АО “Жилстройсбербанк Казахстана” и Nova City"
+              href="https://wa.me/77750340340?text=Добрый день, Меня интересует Новая ипотека от АО “Жилстройсбербанк Казахстана” и Nova City"
             >
               <button class="banner-consulting__whatsapp">
                 <svg
@@ -111,7 +111,7 @@
             <a
               target="_blank"
               class="whatsapp_desktop"
-              href="https://web.whatsapp.com/send?phone=77783603366&text=Добрый день, Меня интересует Новая ипотека от АО “Жилстройсбербанк Казахстана” и Nova City&source=&data="
+              href="https://web.whatsapp.com/send?phone=77750340340&text=Добрый день, Меня интересует Новая ипотека от АО “Жилстройсбербанк Казахстана” и Nova City&source=&data="
             >
               <button class="banner-consulting__whatsapp">
                 <svg
