@@ -132,7 +132,7 @@ export default {
         const oktell = `number=${phoneNumber}&name=${this.name.replace(
           /\s/g,
           ''
-        )}&site=NovaCityЖССБ&company=BIGroup`
+        )}&site=NovaCityЖССБ&company=OtauGroup`
         let data = new FormData()
         data.append('form', oktell)
         this.$axios
